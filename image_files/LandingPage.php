@@ -9,7 +9,7 @@ if (!isLoggedIn()) {
 <html>
 
 <head>
-	<title>123Service Catalog</title>
+	<title>1234Service Catalog</title>
 	<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 
