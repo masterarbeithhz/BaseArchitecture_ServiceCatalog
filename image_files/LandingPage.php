@@ -2,7 +2,7 @@
 include('functions.php');
 if (!isLoggedIn()) {
 	$_SESSION['msg'] = "You must log in first";
-	header('location: http://130.211.228.246/login/login.php');
+	header('location: http://hhz.regel-it.de/login/login.php');
 }
 ?>
 <!DOCTYPE html>
